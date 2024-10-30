@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <a href="https://tape.xyz/u/sasicodes">
-        <img src="https://lens-badge.vercel.app/api/badge/lens/sasicodes" alt="Lens">
+        <img src="https://lens-badge.vercel.app/api/badge/lens/sasicodes" alt="Tape">
     </a>
     <a href="https://www.gitpoap.io/gh/tapexyz/tape">
         <img src="https://public-api.gitpoap.io/v1/repo/tapexyz/tape/badge" alt="Gitpoap">
